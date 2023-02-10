@@ -1,7 +1,7 @@
-# davidgfdev.github.io
+# Portfolio
 A site where I upload the projects I'm working on!
 
-## 2D Space Shooter (Battallion Nemesis)
+# 2D Space Shooter (Battallion Nemesis)
 
 2D Space Shooter game I created in Unity.
 
