@@ -26,4 +26,3 @@ This is a space shooter that can be completed in 5 minutes. Premise was to make 
 ![david-guerrero-capture3](https://user-images.githubusercontent.com/85587392/218138479-959a5127-509f-4863-b575-310737d47645.jpg)
 
 ![david-guerrero-capture1](https://user-images.githubusercontent.com/85587392/218138489-c97b9877-7864-4a39-996b-aa9cb802095a.jpg)
-![Video demo of the game](https://youtu.be/1LqIwT_s4ro)
