@@ -5,6 +5,63 @@ Each project starts with a very clear premise, some defined objectives and from 
 
 ---
 
+# 2D Platformer
+
+## Unity. C#.
+
+2D level-based side scroller platformer in Unity.
+
+![x4F3_J](https://user-images.githubusercontent.com/85587392/218338065-fda72aec-9f4b-4155-8d7f-6a6d6cdf6430.png)
+
+
+### Project Overview
+
+This is a 2D platformer where player controls an explorer cat who wants to climb a mountain. 
+
+There are 13 levels with different challenges, mechanics and themathics. (Forest, Cave, Mountain Peak)
+
+The project had one main goal: to experiment with all my knowledge.
+
+Of course, I had to set some constraints:
+
+- Time is unlimited, but the scope of the project must be small.
+- Duration of the game must be less than 1 hour.
+- I can experiment with all genres I want, but it MUST be a 2D side-scroller.
+
+The game started as a survival game where player could wander a level and gather resources to create items.
+
+The crafting system was 100% complete, but level design and player objectives where a problemathic that was elevating the scope of the project, so I needed to change the project vision.
+
+I switched to a metroidvania type of platformer, and created the whole map, playable from start to end. Metroidvania presented a problem: I wasn't ready to create an artstyle that could make navigation easy.
+
+The final vision for the project was a level-based arcade platformer.
+
+My favourite project till now, I had lots of fun making it.
+
+* I programmed and designed everything except the music and the sounds.
+
+2021 - It was a game created for my research project.
+
+### Links
+
+[Itch.io Link](https://davidgf-dev.itch.io/michiaventura)
+
+[Repository Link](https://github.com/davidgfdev/Michiaventura-Source)
+
+[Video demo of the game](https://youtu.be/Pme4foh5h24)
+
+### Media
+
+![GjV29P](https://user-images.githubusercontent.com/85587392/218338400-0e8d3878-72fe-42bd-87d2-045838770dc5.png)
+
+![9DUQBJ](https://user-images.githubusercontent.com/85587392/218338413-fff11165-1586-47cb-b23e-1a10bc85215d.png)
+
+![v0uiqw](https://user-images.githubusercontent.com/85587392/218338418-cf52f51b-eb9c-4195-b514-96e1a4688b1b.png)
+
+![hlgmJR](https://user-images.githubusercontent.com/85587392/218338421-be6a3542-caac-4c8b-b6bf-91d2b791e26a.png)
+
+---
+
 # 3D Adventure Game
 
 ## Unreal Engine 4. BluePrints. BehaviourTrees.
