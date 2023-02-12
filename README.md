@@ -3,7 +3,53 @@ A site where I upload the projects I'm working on!
 
 Each project starts with a very clear premise, some defined objectives and from there I just let myself explore and have fun while I learn.
 
+---
+
+# 3D Adventure Game
+
+## Unreal Engine 4. BluePrints. BehaviourTrees.
+
+This is a collaborative project. 
+
+Munno is a 3D adventure - puzzle game where players explore a ruined temple, solving puzzles and minigames while escaping from a monster.
+
+![image](https://user-images.githubusercontent.com/85587392/218336284-47844d3e-622c-422a-ab9d-69d66d068676.png)
+
+### Project Overview
+
+This project was created as our collaborative end of year project.
+
+We were 4 teams. Three teams of 3 developers, each one for a minigame, and one team of 4 developers for the main game.
+
+I was involved in the main game team, as the principal programmer and responsible for the whole tech part of the game.
+
+My roles:
+
+- Gameplay Code for the player, interactions and UI.
+- Behaviour Tree of the enemy and NavMesh.
+- I was also involved in the level design, along with my teammates
+- At the last paces of the development, I assisted the tech part of the other teams and merged their minigames with the main game.
+
+This is a school project with the only objective of evaluating our individual skills and teamwork, it may not be the perfect game, but the learning process and the fun of pulling something together was an unforgettable experience. I loved every single moment of working in this project and I'm grateful I did it with my classmates.
+
+2020
+
+### Links
+
+[Video demo of the game](https://youtu.be/PCUSmZS0tqo)
+
+### Media
+
+![david-guerrero-david-guerrero-4af58a35bf7a1e829625fe26cc0aa44b](https://user-images.githubusercontent.com/85587392/218336628-9a784482-2d9b-4d5d-852e-e55a8d0e3cae.jpg)
+
+![david-guerrero-david-guerrero-efd835d97247ea36142259da359ba7ca](https://user-images.githubusercontent.com/85587392/218336632-24b80ba9-954b-42b9-896c-34b372df01eb.jpg)
+
+
+---
+
 # 2D Space Shooter (Battallion Nemesis)
+
+## Unity. C#.
 
 2D Space Shooter game I created in Unity.
 
@@ -37,12 +83,15 @@ This is a space shooter that can be completed in 5 minutes. Premise was to make 
 
 ![david-guerrero-capture1](https://user-images.githubusercontent.com/85587392/218138489-c97b9877-7864-4a39-996b-aa9cb802095a.jpg)
 
+---
+
 # 3D Shooter
 
-![386582-crop0_670_3751_2059-ll-cndx3c22-v4 (1)](https://user-images.githubusercontent.com/85587392/218335040-dcf93f8d-4d7a-4423-b3b8-9078efe49704.jpg)
-
+## Unity. C#.
 
 (2019) 3D Shooter I made with Unity back in 2019 inspired by Wolfenstein3D.
+
+![386582-crop0_670_3751_2059-ll-cndx3c22-v4 (1)](https://user-images.githubusercontent.com/85587392/218335040-dcf93f8d-4d7a-4423-b3b8-9078efe49704.jpg)
 
 ### Project Overview
 
