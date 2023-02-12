@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Portfolio
 A site where I upload the projects I'm working on!
 
@@ -58,11 +65,8 @@ Premise of the project was to create a simple 3D experience with the following o
 
 [GameJolt Link](https://gamejolt.com/games/hades/386582)
 
-
 2019 - It was a personal project.
 
 ## Media
 
-![david-guerrero-capture3](https://user-images.githubusercontent.com/85587392/218138479-959a5127-509f-4863-b575-310737d47645.jpg)
 
-![david-guerrero-capture1](https://user-images.githubusercontent.com/85587392/218138489-c97b9877-7864-4a39-996b-aa9cb802095a.jpg)
