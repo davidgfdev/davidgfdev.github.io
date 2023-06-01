@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Portfolio
 A site where I upload the projects I'm working on!
 
 Each project starts with a very clear premise, some defined objectives and from there I just let myself explore and have fun while I learn.
