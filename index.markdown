@@ -67,6 +67,4 @@ Premise of the project was to create a simple 3D experience with the following o
 
 2019 - It was a personal project.
 
-## Media
-
 
